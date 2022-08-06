@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Packages",
+    name: "WypePackages",
     defaultLocalization: "en",
     platforms: [.iOS(.v15), .macCatalyst(.v15)],
     products: [
